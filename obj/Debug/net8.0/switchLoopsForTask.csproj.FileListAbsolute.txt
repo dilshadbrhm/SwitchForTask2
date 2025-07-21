@@ -1,0 +1,15 @@
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\switchLoopsForTask\bin\Debug\net8.0\switchLoopsForTask.exe
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\switchLoopsForTask\bin\Debug\net8.0\switchLoopsForTask.deps.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\switchLoopsForTask\bin\Debug\net8.0\switchLoopsForTask.runtimeconfig.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\switchLoopsForTask\bin\Debug\net8.0\switchLoopsForTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\switchLoopsForTask\bin\Debug\net8.0\switchLoopsForTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\switchLoopsForTask\obj\Debug\net8.0\switchLoopsForTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\switchLoopsForTask\obj\Debug\net8.0\switchLoopsForTask.AssemblyInfoInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\switchLoopsForTask\obj\Debug\net8.0\switchLoopsForTask.AssemblyInfo.cs
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\switchLoopsForTask\obj\Debug\net8.0\switchLoopsForTask.csproj.CoreCompileInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\switchLoopsForTask\obj\Debug\net8.0\switchLoopsForTask.sourcelink.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\switchLoopsForTask\obj\Debug\net8.0\switchLoopsForTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\switchLoopsForTask\obj\Debug\net8.0\refint\switchLoopsForTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\switchLoopsForTask\obj\Debug\net8.0\switchLoopsForTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\switchLoopsForTask\obj\Debug\net8.0\switchLoopsForTask.genruntimeconfig.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\switchLoopsForTask\obj\Debug\net8.0\ref\switchLoopsForTask.dll
